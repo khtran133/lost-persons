@@ -1,4 +1,4 @@
-# Predicting the movement of lost persons
+# Modeling the impact of Weather on Distance Traveled by Lost Persons
 
 ![xgboost_output](https://user-images.githubusercontent.com/45692829/170165647-9be9d2a1-d01a-4e5a-821a-1f8986f3da32.PNG)![log_reg1_feature_importance](https://user-images.githubusercontent.com/45692829/170165822-319b22bc-5d58-43eb-a759-401a65b440de.png)
 ![log_rf2_tree](https://user-images.githubusercontent.com/45692829/170165823-3e72f632-1240-4596-88c9-619c49bd6a7f.png)
